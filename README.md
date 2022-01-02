@@ -1,5 +1,5 @@
-# DTasksApp
-Decentralize App is a simple Tasks' App to practice the creation of a blockchain applicaciont using Solidity and Javascript.
+# PeggiBank
+Decentralize App is a simple Peggi' App to practice the creation of a blockchain applicaciont using Solidity and Javascript.
 
 ![](./screenshot.png)
 
